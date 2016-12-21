@@ -1,0 +1,3 @@
+version = "%{version}%"
+description = "Avoid redundancy in type and signature declarations"
+ppx = "./ppx_import"
